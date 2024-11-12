@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Ramla Eman
-👀 I’m interested in Programing
-🌱 I’m currently learning Web & App Development
+👋 Hi, I’m Ramla Eman </br>
+👀 I’m interested in Programing</br>
+🌱 I’m currently learning Web & App Development</br>
 💞️ I’m looking to collaborate on AI
 
 

@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on Web & App Development<br>I'm looking to collaborate on AI<br>I'm currently learning Front end development
+👋 Hi, I’m Ramla Eman
+👀 I’m interested in Programing
+🌱 I’m currently learning Web & App Development
+💞️ I’m looking to collaborate on AI
 
 
 ## 🌐 Socials:
